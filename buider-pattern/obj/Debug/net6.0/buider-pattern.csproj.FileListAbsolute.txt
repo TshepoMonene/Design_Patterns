@@ -1,0 +1,5 @@
+C:\Users\tmonene\Desktop\Design_Patterns\buider-pattern\obj\Debug\net6.0\buider-pattern.csproj.AssemblyReference.cache
+C:\Users\tmonene\Desktop\Design_Patterns\buider-pattern\obj\Debug\net6.0\buider-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmonene\Desktop\Design_Patterns\buider-pattern\obj\Debug\net6.0\buider-pattern.AssemblyInfoInputs.cache
+C:\Users\tmonene\Desktop\Design_Patterns\buider-pattern\obj\Debug\net6.0\buider-pattern.AssemblyInfo.cs
+C:\Users\tmonene\Desktop\Design_Patterns\buider-pattern\obj\Debug\net6.0\buider-pattern.csproj.CoreCompileInputs.cache
